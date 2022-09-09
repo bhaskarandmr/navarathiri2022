@@ -24,7 +24,7 @@ const navItems: NavItems = [
   { title: 'முதல் பக்கம்', href: '/features' },
   { title: ' சிறப்பு', href: '/pricing' },
   { title: 'பூஜை ', href: '/contact' },
-    { title: 'நவ துர்கைகள்', href: '/features' },
+    { title: 'நவ துர்கைகள்', href: '/9gods' },
     { title: 'கொலு  ', href: '/features' },
   { title: 'பலன்கள்', href: '/sign-up', },
 ];
