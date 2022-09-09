@@ -26,13 +26,9 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
       <HomepageWrapper>
         <WhiteBackgroundContainer>
           <Hero />
-          <BasicSection imageUrl="/demo-illustration-1.svg" title="பூஜை முறைகள்" overTitle="sit amet gogo">
+          <BasicSection imageUrl="/demo-illustration-1.svg" title="பூஜை முறைகள்" overTitle="">
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore
-              voluptate quo deleniti animi laboriosam.{' '}
-              <Link href="/help-center">Possimus ullam velit rem itaque consectetur, in distinctio?</Link> Lorem ipsum, dolor sit amet
-              consectetur adipisicing elit. Soluta repellendus quia quos obcaecati nihil. Laudantium non accusantium, voluptate eum nesciunt
-              at suscipit quis est soluta?
+            ‘ஒன்பது இரவுகள்’ என்று பொருள்படும் நவராத்திரி, துர்கா, லட்சுமி மற்றும் சரஸ்வதி வடிவங்களில் தெய்வீக வழிபாட்டை ஒவ்வொரு மூன்று நாட்களும் வழிபடுகிறார்கள். இருப்பினும், பத்தாவது நாள் மிக முக்கியமான நாளாகும். இது ‘வெற்றியின் அடையாளமாகக் கொண்டாடப்படுகிறது.இதனை விஜயதாசமி என்று அழைக்கப்படுகிறது.
             </p>
           </BasicSection>
           <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
