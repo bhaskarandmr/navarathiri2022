@@ -22,16 +22,7 @@ export default function Hero() {
 இந்தியாவின் மற்ற பண்டிகைகளைப் போலவே, நவராத்திரியும் திருவிழா கொண்டாடுவதற்கும் பல கொள்கைகள் இருக்கிறது. ஒரு விதத்தில் , நவராத்திரி திருவிழா கொண்டாடுவதால் நம் ஆன்மீக ஆற்றல்கள் வெளிப்படுகிறது. நம் ஆன்மிக பயணத்தில் துர்கா, லட்சுமி மற்றும் சரஸ்வதி ஆகிய மூவரின் கோட்பாடுகளை நாம் கடந்து செல்கிறோம்.அதாவது கல்வி,செல்வம்,வீரம் இவை மூன்றும் அனைவரின் வாழ்விலும் மிக முக்கியமான விஷயமாகும்.இந்த உலகில் ஒருவரின் ஒருவர் சுயத்தை உணர இது அவசியம் தேவைப்படுகிறது.
 
         </Description>
-        <CustomButtonGroup>
-          <Button onClick={() => setIsModalOpened(true)}>
-            Subscribe to the newsletter <span>&rarr;</span>
-          </Button>
-          <NextLink href="#whitepaper" passHref>
-            <Button transparent>
-              Features <span>&rarr;</span>
-            </Button>
-          </NextLink>
-        </CustomButtonGroup>
+        
       </Contents>
       <ImageContainer>
         <HeroIllustration />
