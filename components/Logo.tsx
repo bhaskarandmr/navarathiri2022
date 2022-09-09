@@ -1,7 +1,7 @@
 import Image from 'next/image'
 
 function Avatar() {
-  return <Image src="/me.png" alt="me" width="64" height="64" />
+  return <Image src="/logo.png" alt="me" width="175" height="69" />
 }
 
 export default Avatar
