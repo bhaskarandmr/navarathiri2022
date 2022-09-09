@@ -23,7 +23,9 @@ const navItems: NavItems = [
   { title: 'முதல் பக்கம்', href: '/features' },
   { title: ' சிறப்பு', href: '/pricing' },
   { title: 'பூஜை ', href: '/contact' },
-  { title: 'பலன்கள்', href: '/sign-up', outlined: true },
+    { title: 'நவ துர்கைகள்', href: '/features' },
+    { title: 'கொலு  ', href: '/features' },
+  { title: 'பலன்கள்', href: '/sign-up', },
 ];
 
 const TinaCMS = dynamic(() => import('tinacms'), { ssr: false });
