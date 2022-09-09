@@ -26,12 +26,14 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
       <HomepageWrapper>
         <WhiteBackgroundContainer>
           <Hero />
-          <BasicSection imageUrl="/hero-img.png" title="பூஜை முறைகள்">
+          <BasicSection imageUrl="/demo-illustration-1.svg" title="பூஜை முறைகள்" overTitle="sit amet gogo">
             <p>
-            ‘ஒன்பது இரவுகள்’ என்று பொருள்படும் நவராத்திரி, துர்கா, லட்சுமி மற்றும் சரஸ்வதி வடிவங்களில் தெய்வீக வழிபாட்டை ஒவ்வொரு மூன்று நாட்களும் வழிபடுகிறார்கள். இருப்பினும், பத்தாவது நாள் மிக முக்கியமான நாளாகும். இது ‘வெற்றியின் அடையாளமாகக் கொண்டாடப்படுகிறது.இதனை விஜயதாசமி என்று அழைக்கப்படுகிறது.
-           
-            துர்கா,லட்சுமி,சரஸ்வதி ஆகிய மூவரையும் இவ்வுலகில் வழிபடக் காரணம்,அனைத்து எதிர்மறை எண்ணங்களை அழித்து நேர்மறை குணங்களை வளர்க்கும் பண்புகளும்,நற்குணங்களும் இம்மூவரிடம் இருக்கிறது.அதனை இவ்வுலகில் வேரூன்றவே நாம் அவர்களை வணங்குகிறோம்.
-             நம்மால் சிவன் என்னும் பெரும் சக்தியை இம்மூன்று சக்திகளின் அருள் இருந்தால் மட்டுமே உணர முடியும் என்று கூறப்படுகிறது. அதனால்தான், தேவி என்று அழைக்கப்படும் மகா சக்தியை மக்கள் அவரது பல்வேறு வெளிப்பாடுகளில் வணங்குகிறார்கள்.</p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore
+              voluptate quo deleniti animi laboriosam.{' '}
+              <Link href="/help-center">Possimus ullam velit rem itaque consectetur, in distinctio?</Link> Lorem ipsum, dolor sit amet
+              consectetur adipisicing elit. Soluta repellendus quia quos obcaecati nihil. Laudantium non accusantium, voluptate eum nesciunt
+              at suscipit quis est soluta?
+            </p>
           </BasicSection>
           <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
             <p>
