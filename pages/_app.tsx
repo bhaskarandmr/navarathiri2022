@@ -1,4 +1,5 @@
 import 'swiper/css';
+import 'style.css'
 import 'swiper/css/bundle';
 import 'swiper/css/navigation';
 import 'swiper/css/autoplay';
