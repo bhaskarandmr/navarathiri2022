@@ -1,7 +1,7 @@
 import Image from 'next/image'
 
 function HeroIllustration() {
-  return <Image src="/logo.png" alt="me" width="175" height="69" />
+  return <Image src="/hero-img.png" alt="me" width="610" height="610" />
 }
 
 export default HeroIllustration
