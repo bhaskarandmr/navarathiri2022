@@ -1,6 +1,7 @@
+import Image from 'next/image'
 
 function Avatar() {
-  return <Image src="https://img.dinamalar.com/images/dmrenglishlogonew.png" alt="me" width="200" height="51" />
+  return <Image src="/me.png" alt="me" width="64" height="64" />
 }
 
 export default Avatar
