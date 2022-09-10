@@ -42,7 +42,7 @@ export default function ScrollableBlogPosts({ posts }: ScrollableBlogPostsProps)
                 <ArticleCard
                   title={singlePost.meta.title}
                   description={singlePost.meta.description}
-                  imageUrl={singlePost.imageUrl}
+                  imageUrl={meta.imageUrl}
                   slug={singlePost.slug}
                 />
               </SwiperSlide>
