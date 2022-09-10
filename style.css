@@ -1,6 +1,9 @@
 body{
   background:rgb(242, 242, 197) none repeat scroll 0% 0% !important;
 }
+.ioXlqZ{
+  display:none !important;
+}
 .next-light-theme {
   --background: none !important;
   --secondBackground: none !important;
