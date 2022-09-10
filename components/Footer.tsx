@@ -11,19 +11,19 @@ export default function Footer() {
         
         <BottomBar>
           <ShareBar>
-            <NextLink href="https://twitter.com/dinamalarweb" passHref>
+            <NextLink href="https://www.twitter.com/my-saas-startup" passHref>
               <a>
                 <TwitterIcon size={50} round={true} />
               </a>
             </NextLink>
 
-            <NextLink href="https://www.facebook.com/Dinamalardaily" passHref>
+            <NextLink href="https://www.facebook.com/my-saas-startup" passHref>
               <a>
                 <FacebookIcon size={50} round={true} />
               </a>
             </NextLink>
 
-            <NextLink href="https://www.youtube.com/dinamalardaily" passHref>
+            <NextLink href="https://www.linkedin.com/my-saas-startup" passHref>
               <a>
                 <LinkedinIcon size={50} round={true} />
               </a>
