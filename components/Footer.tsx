@@ -37,7 +37,7 @@ export default function Footer() {
   );
 }
 
-f
+
 const FooterWrapper = styled.div`
   padding-top: 10rem;
   padding-bottom: 4rem;
