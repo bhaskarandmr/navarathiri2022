@@ -9,19 +9,19 @@ import { media } from 'utils/media';
 
 const FEATURES = [
   {
-    imageUrl: '/grid-icons/asset-1.svg',
+    imageUrl: '/1.png',
     title: 'Lorem ipsum dolor sit amet.',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
   },
   {
-    imageUrl: '/grid-icons/asset-2.svg',
+    imageUrl: '/2.png',
     title: 'Lorem ipsum dolor sit amet.',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
   },
   {
-    imageUrl: '/grid-icons/asset-3.svg',
+    imageUrl: '/3.png',
     title: 'Lorem ipsum dolor sit amet.',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
