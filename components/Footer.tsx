@@ -4,11 +4,6 @@ import styled from 'styled-components';
 import Container from 'components/Container';
 import { media } from 'utils/media';
 
-
-
-
-
-
 export default function Footer() {
   return (
     <FooterWrapper>
