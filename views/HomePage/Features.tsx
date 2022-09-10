@@ -75,18 +75,7 @@ export default function Features() {
     </Container>
   );
   
-  return (
-    <FeaturesGalleryWrapper>
-      <Content>
-        <OverTitle>features</OverTitle>
-        <SectionTitle>What are you signing in for?</SectionTitle>
-      </Content>
-      <GalleryWrapper>
-        <TabsContainer>{tabsMarkup}</TabsContainer>
-        {imagesMarkup}
-      </GalleryWrapper>
-    </FeaturesGalleryWrapper>
-  );
+
 }
 
 const CustomAutofitGrid = styled(AutofitGrid)`
