@@ -5,38 +5,41 @@ body{
   --background: none !important;
   --secondBackground: none !important;
 }
-.bBqkOH {
+.next-light-theme .idrxjM::before {
+  background-color: rgb(221, 51, 51) !important;
+}
+.next-light-theme .bBqkOH {
   background: rgb(232, 232, 173) none repeat scroll 0% 0% !important;
 }
-.idrxjM {
+.next-light-theme .idrxjM {
   line-height: 1.8 !important;
 }
 
-.hspTTT, .kuHjMB, .jvMpbf, .jvMpbf {
+.next-light-theme .hspTTT, .next-light-theme .kuHjMB, .next-light-theme .jvMpbf, .next-light-theme .jvMpbf {
   font-size: 3.5rem !important;
   line-height: 1.8 !important;
 
 }
-.cQBRZy{
+.next-light-theme .cQBRZy{
    font-size: 3.5rem !important;
   line-height: 1.6 !important;
   margin-bottom:1em !important;
 }
-.cQBRZy, .hspTTT, .kuHjMB, .jvMpbf, .jvMpbf {
+.next-light-theme .cQBRZy, .next-light-theme .hspTTT, .next-light-theme .kuHjMB, .next-light-theme .jvMpbf, .next-light-theme .jvMpbf {
   color: #dd3333;
 }
 
 
-.hQvODp, .coAmRA,.jmpCRK {
+.next-light-theme .hQvODp, .next-light-theme .coAmRA, .next-light-theme .jmpCRK {
   line-height: 1.8 !important;
   font-size: 1.4rem !important;
 }
-.kuHjMB {
+.next-light-theme .kuHjMB {
   margin-bottom: 1rem !important;
  
 }
 
-.jvMpbf{
+.next-light-theme .jvMpbf{
   margin:0.5em 0
 }
 
