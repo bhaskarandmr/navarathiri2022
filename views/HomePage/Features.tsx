@@ -68,7 +68,7 @@ const FEATURES = [
 export default function Features() {
   return (
     <Container>
-        <SectionTitle>நவ துர்கைகள்</SectionTitle>
+        <SectionTitle>வீடியோ</SectionTitle>
       <CustomAutofitGrid>
         {FEATURES.map((singleFeature, idx) => (
           <BasicCard key={singleFeature.title} {...singleFeature} />
