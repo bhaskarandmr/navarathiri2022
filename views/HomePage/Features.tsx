@@ -68,7 +68,7 @@ const FEATURES = [
 export default function Features() {
   return (
     <Container>
-        <SectionTitle>What are you signing in for?</SectionTitle>
+        <SectionTitle>நவ துர்கைகள்</SectionTitle>
       <CustomAutofitGrid>
         {FEATURES.map((singleFeature, idx) => (
           <BasicCard key={singleFeature.title} {...singleFeature} />
