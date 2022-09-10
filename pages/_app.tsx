@@ -38,6 +38,8 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         <link rel="icon" type="image/png" href="/favicon.png" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i|Noto+Sans:400,400i,700,700i" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/earlyaccess/notosanstamil.css" rel="stylesheet" type="text/css" />
         {/* <link rel="alternate" type="application/rss+xml" href={EnvVars.URL + 'rss'} title="RSS 2.0" /> */}
         {/* <script
           dangerouslySetInnerHTML={{
