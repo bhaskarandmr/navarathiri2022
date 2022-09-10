@@ -21,7 +21,7 @@ import { NewsletterModalContextProvider, useNewsletterModalContext } from 'conte
 import { NavItems } from 'types';
 
 const navItems: NavItems = [
-  { title: 'முதல் பக்கம்', href: '/features' },
+  { title: 'முதல் பக்கம்', href: '/' },
   { title: ' சிறப்பு', href: '/pricing' },
   { title: 'பூஜை ', href: '/contact' },
     { title: 'நவ துர்கைகள்', href: '/contact' },
