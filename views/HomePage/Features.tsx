@@ -9,7 +9,7 @@ import { media } from 'utils/media';
 
 const FEATURES = [
   {
-    imageUrl: '/1f.png',
+    imageUrl: '/1f.jpg',
     title: 'Lorem ipsum dolor sit amet.',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
