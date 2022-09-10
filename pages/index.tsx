@@ -26,7 +26,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
       <HomepageWrapper>
         <WhiteBackgroundContainer>
           <Hero />
-          <BasicSection imageUrl="/poja.jpg" title="பூஜை முறைகள்" overTitle="நவராத்திரி ">
+          <BasicSection imageUrl="/poja1.jpg" title="பூஜை முறைகள்" overTitle="நவராத்திரி ">
             <p>
             ‘ஒன்பது இரவுகள்’ என்று பொருள்படும் நவராத்திரி, துர்கா, லட்சுமி மற்றும் சரஸ்வதி வடிவங்களில் தெய்வீக வழிபாட்டை ஒவ்வொரு மூன்று நாட்களும் வழிபடுகிறார்கள். இருப்பினும், பத்தாவது நாள் மிக முக்கியமான நாளாகும். இது ‘வெற்றியின் அடையாளமாகக் கொண்டாடப்படுகிறது.இதனை விஜயதாசமி என்று அழைக்கப்படுகிறது.
             </p>
