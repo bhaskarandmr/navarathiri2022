@@ -37,27 +37,7 @@ export default function Footer() {
   );
 }
 
-function FooterList({ title, items }: SingleFooterList) {
-  return (
-    <ListWrapper>
-      <ListHeader>{title}</ListHeader>
-      {items.map((singleItem) => (
-        <ListItem key={singleItem.href} {...singleItem} />
-      ))}
-    </ListWrapper>
-  );
-}
-
-function ListItem({ title, href }: SingleFooterListItem) {
-  return (
-    <ListItemWrapper>
-      <NextLink href={href} passHref>
-        <a>{title}</a>
-      </NextLink>
-    </ListItemWrapper>
-  );
-}
-
+f
 const FooterWrapper = styled.div`
   padding-top: 10rem;
   padding-bottom: 4rem;
