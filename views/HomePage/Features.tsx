@@ -10,57 +10,57 @@ import { media } from 'utils/media';
 const FEATURES = [
   {
     imageUrl: '/1f.jpg',
-    title: 'Lorem ipsum dolor sit amet.',
+    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      '',
   },
   {
-    imageUrl: '/2.png',
-    title: 'Lorem ipsum dolor sit amet.',
+    imageUrl: '/1f.jpg',
+    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      '',
   },
   {
-    imageUrl: '/3.png',
-    title: 'Lorem ipsum dolor sit amet.',
+    imageUrl: '/1f.jpg',
+    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      '',
   },
   {
-    imageUrl: '/grid-icons/asset-4.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    imageUrl: '/1f.jpg',
+    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      '',
   },
   {
-    imageUrl: '/grid-icons/asset-5.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+   imageUrl: '/1f.jpg',
+    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      '',
   },
   {
-    imageUrl: '/grid-icons/asset-6.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    imageUrl: '/1f.jpg',
+    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      '',
   },
   {
-    imageUrl: '/grid-icons/asset-7.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    imageUrl: '/1f.jpg',
+    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      '',
   },
   {
-    imageUrl: '/grid-icons/asset-8.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+     imageUrl: '/1f.jpg',
+    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      '',
   },
   {
-    imageUrl: '/grid-icons/asset-9.svg',
-    title: 'Lorem ipsum dolor sit amet.',
+    imageUrl: '/1f.jpg',
+    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis error dolorem ipsa dolore facere est consequuntur aut, eos doloribus voluptate?',
+      '',
   },
 ];
 
