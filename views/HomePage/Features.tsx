@@ -62,9 +62,14 @@ const FEATURES = [
   },
 ];
 
+
 export default function Features() {
   return (
     <Container>
+       <Content>
+        <OverTitle>features</OverTitle>
+        <SectionTitle>What are you signing in for?</SectionTitle>
+      </Content>
       <CustomAutofitGrid>
         {FEATURES.map((singleFeature, idx) => (
           <BasicCard key={singleFeature.title} {...singleFeature} />
