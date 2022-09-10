@@ -5,11 +5,14 @@ body{
   --background: none !important;
   --secondBackground: none !important;
 }
+.bBqkOH {
+  background: rgb(232, 232, 173) none repeat scroll 0% 0% !important;
+}
 .idrxjM {
   line-height: 1.8 !important;
 }
 
-.hspTTT, .kuHjMB {
+.hspTTT, .kuHjMB, .jvMpbf, .jvMpbf {
   font-size: 3.5rem !important;
   line-height: 1.8 !important;
 
@@ -19,7 +22,9 @@ body{
   line-height: 1.6 !important;
   margin-bottom:1em !important;
 }
-
+.cQBRZy, .hspTTT, .kuHjMB, .jvMpbf, .jvMpbf {
+  color: #dd3333;
+}
 
 
 .hQvODp, .coAmRA,.jmpCRK {
