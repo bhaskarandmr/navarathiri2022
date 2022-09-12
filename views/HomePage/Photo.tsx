@@ -9,60 +9,18 @@ import { media } from 'utils/media';
 
 const PHOTO = [
   {
-    imageUrl: '/1f.jpg',
+    imageUrl: '/poja.jpg',
     title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
     description:
       '',
   },
   {
-    imageUrl: '/1f.jpg',
+    imageUrl: '//poja.jpg',
     title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
     description:
       '',
   },
-  {
-    imageUrl: '/1f.jpg',
-    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
-    description:
-      '',
-  },
-  {
-    imageUrl: '/1f.jpg',
-    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
-    description:
-      '',
-  },
-  {
-   imageUrl: '/1f.jpg',
-    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
-    description:
-      '',
-  },
-  {
-    imageUrl: '/1f.jpg',
-    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
-    description:
-      '',
-  },
-  {
-    imageUrl: '/1f.jpg',
-    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
-    description:
-      '',
-  },
-  {
-     imageUrl: '/1f.jpg',
-    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
-    description:
-      '',
-  },
-  {
-    imageUrl: '/1f.jpg',
-    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
-    description:
-      '',
-  },
-];
+
 
 
 export default function photo() {
