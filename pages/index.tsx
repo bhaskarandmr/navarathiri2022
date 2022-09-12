@@ -45,6 +45,10 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           
           <Features />
                     <ScrollableBlogPosts posts={posts} />
+          
+           <BasicSection imageUrl="/poja.jpg" title="பூஜை முறைகள்" overTitle="நவராத்திரி "></BasicSection>
+                     <BasicSection imageUrl="/poja.jpg" title="பூஜை முறைகள்" overTitle="நவராத்திரி "></BasicSection>
+
 
         </DarkerBackgroundContainer>
       </HomepageWrapper>
