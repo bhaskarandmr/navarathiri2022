@@ -13,7 +13,16 @@ body{
 .fzEYXJ{
   margin-top:0px !important;
 }
+.cUnqIU > :not(:first-child) {
+  margin-top: 5rem !important;
+}
+.cUnqIU > :last-child {
+  padding-bottom: 5rem !important;
+}
 
+.bFCbdu > :not(:first-child) {
+  margin-top: 5rem !important;
+}
 .next-light-theme {
   --background: none !important;
   --secondBackground: none !important;
