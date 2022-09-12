@@ -4,6 +4,10 @@ body{
 img, picture {
   border: 5px solid rgb(238, 226, 177) !important;
 }
+.bBqkOH img, .bBqkOH picture {
+  border: none !important;
+}
+
 .ioXlqZ{
   display:none !important;
 }
