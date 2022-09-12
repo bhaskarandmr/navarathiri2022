@@ -4,7 +4,7 @@ import { Carousel } from 'react-responsive-carousel';
   
 
 
-export default class NextJsCarousel extends Component {
+export default function photo() {
     render() {
         return (
             <div>
