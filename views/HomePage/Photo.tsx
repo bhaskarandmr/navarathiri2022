@@ -27,13 +27,13 @@ export default function photo() {
   return (
     <Container>
         <SectionTitle>போட்டோ</SectionTitle>
-      <Link href="/features">
-      <CustomAutofitGrid>
+     
+      <CustomAutofitGrid href="/features">
         {PHOTO.map((singlephotos, idx) => (
           <BasicCard key={singlephotos.title} {...singlephotos} />
         ))}
       </CustomAutofitGrid>
-                </Link>
+            
     </Container>
   );
   
