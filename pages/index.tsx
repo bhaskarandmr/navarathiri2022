@@ -46,7 +46,8 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           <Features />
                     <ScrollableBlogPosts posts={posts} />
       
-     
+               <photo />
+
  
           
         </DarkerBackgroundContainer>
