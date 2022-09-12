@@ -9,8 +9,8 @@ import { media } from 'utils/media';
 
 const PHOTO = [
   {
-    imageUrl: '/poja.jpg',
-    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
+    imageUrl: '/kolu1.jpg',
+    title: 'வடபழனி ஆண்டவர் கோவிலில் பக்தர்கள் பங்களிப்பில் சக்தி கொலு',
     description:
       '',
   },
