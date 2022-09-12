@@ -21,7 +21,7 @@ const PHOTO = [
       '',
   },
 
-
+];
 
 export default function photo() {
   return (
