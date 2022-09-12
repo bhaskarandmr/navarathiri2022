@@ -7,7 +7,7 @@ import { EnvVars } from 'env';
 import { getAllPosts } from 'utils/postsFetcher';
 import Cta from 'views/HomePage/Cta';
 import Features from 'views/HomePage/Features';
-import Features from 'views/HomePage/photo';
+import photo from 'views/HomePage/photo';
 import FeaturesGallery from 'views/HomePage/FeaturesGallery';
 import Hero from 'views/HomePage/Hero';
 import Partners from 'views/HomePage/Partners';
