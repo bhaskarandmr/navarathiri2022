@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import AutofitGrid from 'components/AutofitGrid';
-import BasicCard from 'components/BasicCard';
+import BasicCard from 'components/BasicCard1';
 import Container from 'components/Container';
 import SectionTitle from 'components/SectionTitle';
 
