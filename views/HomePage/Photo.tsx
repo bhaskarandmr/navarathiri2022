@@ -15,8 +15,8 @@ const PHOTO = [
       '',
   },
   {
-    imageUrl: '//poja.jpg',
-    title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
+    imageUrl: '/kolu2.jpg',
+    title: 'தினமலர் வாசகர்களின் கொலு புகைப்படங்கள் ',
     description:
       '',
   },
