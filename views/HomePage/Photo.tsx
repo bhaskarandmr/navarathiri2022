@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link'
 import styled from 'styled-components';
 import AutofitGrid from 'components/AutofitGrid';
 import BasicCard from 'components/BasicCard1';
@@ -27,13 +28,13 @@ export default function photo() {
   return (
     <Container>
         <SectionTitle>போட்டோ</SectionTitle>
-     
-      <CustomAutofitGrid href="/features">
+             <Link href="/features">
+      <CustomAutofitGrid>
         {PHOTO.map((singlephotos, idx) => (
           <BasicCard key={singlephotos.title} {...singlephotos} />
         ))}
       </CustomAutofitGrid>
-            
+                 </Link>   
     </Container>
   );
   
