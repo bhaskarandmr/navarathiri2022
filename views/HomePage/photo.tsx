@@ -70,7 +70,7 @@ export default function photo() {
     <Container>
         <SectionTitle>photo</SectionTitle>
       <CustomAutofitGrid>
-        {photo.map((singlephotos, idx) => (
+        {PHOTO.map((singlephotos, idx) => (
           <BasicCard key={singlephotos.title} {...singlephotos} />
         ))}
       </CustomAutofitGrid>
