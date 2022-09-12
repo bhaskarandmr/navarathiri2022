@@ -26,7 +26,7 @@ const PHOTO = [
 export default function photo() {
   return (
     <Container>
-        <SectionTitle>photo</SectionTitle>
+        <SectionTitle>போட்டோ</SectionTitle>
       <CustomAutofitGrid>
         {PHOTO.map((singlephotos, idx) => (
           <BasicCard key={singlephotos.title} {...singlephotos} />
