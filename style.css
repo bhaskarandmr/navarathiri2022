@@ -1,7 +1,9 @@
 body{
   background:rgb(242, 242, 197) none repeat scroll 0% 0% !important;
 }
-
+img, picture {
+  border: 5px solid rgb(238, 226, 177) !important;
+}
 .ioXlqZ{
   display:none !important;
 }
