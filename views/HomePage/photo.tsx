@@ -7,7 +7,7 @@ import SectionTitle from 'components/SectionTitle';
 
 import { media } from 'utils/media';
 
-const photo = [
+const PHOTO = [
   {
     imageUrl: '/1f.jpg',
     title: 'நவராத்திரி நான்காம் நாள் பூஜை முறை',
@@ -70,8 +70,8 @@ export default function photo() {
     <Container>
         <SectionTitle>photo</SectionTitle>
       <CustomAutofitGrid>
-        {photo.map((singlephoto, idx) => (
-          <BasicCard key={singlephoto.title} {...singlephoto} />
+        {photo.map((singlephotos, idx) => (
+          <BasicCard key={singlephotos.title} {...singlephotos} />
         ))}
       </CustomAutofitGrid>
     </Container>
