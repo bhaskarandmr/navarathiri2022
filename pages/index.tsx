@@ -7,7 +7,7 @@ import { EnvVars } from 'env';
 import { getAllPosts } from 'utils/postsFetcher';
 import Cta from 'views/HomePage/Cta';
 import Features from 'views/HomePage/Features';
-import photo from 'views/HomePage/photo';
+import Photo from 'views/HomePage/Photo';
 import FeaturesGallery from 'views/HomePage/FeaturesGallery';
 import Hero from 'views/HomePage/Hero';
 import Partners from 'views/HomePage/Partners';
@@ -47,7 +47,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           <Features />
                     <ScrollableBlogPosts posts={posts} />
       
-               <photo />
+               <Photo />
 
  
           
