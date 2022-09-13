@@ -1,5 +1,5 @@
 import NextLink from 'next/link';
-import { FacebookIcon, LinkedinIcon, TwitterIcon } from 'react-share';
+import { FacebookIcon, PinterestIcon, TwitterIcon } from 'react-share';
 import styled from 'styled-components';
 import Container from 'components/Container';
 import { media } from 'utils/media';
@@ -26,7 +26,7 @@ export default function Footer() {
 
             <NextLink href="https://in.pinterest.com/dinamalar/" passHref>
               <a>
-                <LinkedinIcon size={50} round={true} />
+                <PinterestIcon size={50} round={true} />
               </a>
             </NextLink>
           </ShareBar>
