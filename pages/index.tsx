@@ -50,6 +50,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
               
  <Photo />
           
+          
         </DarkerBackgroundContainer>
       </HomepageWrapper>
     </>
