@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link'
 import styled from 'styled-components';
 import AutofitGrid from 'components/AutofitGrid';
 import BasicCard from 'components/BasicCard';
@@ -69,11 +70,13 @@ export default function Features() {
   return (
     <Container>
         <SectionTitle>வீடியோ</SectionTitle>
+                   <Link href="/features">
       <CustomAutofitGrid>
         {FEATURES.map((singleFeature, idx) => (
           <BasicCard key={singleFeature.title} {...singleFeature} />
         ))}
       </CustomAutofitGrid>
+                                      </Link>   
     </Container>
   );
   
