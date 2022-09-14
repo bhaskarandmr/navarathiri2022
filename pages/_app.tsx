@@ -22,7 +22,7 @@ import { NavItems } from 'types';
 
 const navItems: NavItems = [
   { title: 'முதல் பக்கம்', href: '/' },
-  { title: ' சிறப்பு', href: '/pricing' },
+  { title: ' செய்திகள்', href: '/blog' },
   { title: 'பூஜை ', href: '/contact' },
     { title: 'நவ துர்கைகள்', href: '/contact' },
     { title: 'கொலு  ', href: '/features' },
