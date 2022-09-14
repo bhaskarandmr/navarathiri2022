@@ -69,7 +69,7 @@ export default function Features() {
   return (
     <Container>
         <SectionTitle>வீடியோ</SectionTitle>
-      <CustomAutofitGrid>
+      <CustomAutofitGrid href="/features">
         {FEATURES.map((singleFeature, idx) => (
           <BasicCard key={singleFeature.title} {...singleFeature} />
         ))}
