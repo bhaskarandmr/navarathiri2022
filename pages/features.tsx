@@ -14,7 +14,14 @@ export default function FeaturesPage() {
       <Wrapper>
         <SectionTitle>Check out this quick introduction</SectionTitle>
         <YoutubeVideo url="https://www.youtube.com/watch?v=BggrpKfqh1c" />
+        
+      <SectionTitle>Check out this quick introduction</SectionTitle>
+        <YoutubeVideo url="https://www.youtube.com/watch?v=BggrpKfqh1c" />
      
+         <SectionTitle>Check out this quick introduction</SectionTitle>
+        <YoutubeVideo url="https://www.youtube.com/watch?v=BggrpKfqh1c" />
+     
+        
       </Wrapper>
     </Page>
      
