@@ -10,15 +10,15 @@ import { media } from 'utils/media';
 
 export default function FeaturesPage() {
   return (
-    <Page title="Features" description="Elit aute do nisi Lorem id ea culpa sint duis eu tempor dolore elit.">
+    <Page title="வீடியோ">
       <Wrapper>
-        <SectionTitle>Check out this quick introduction</SectionTitle>
-        <YoutubeVideo url="https://www.youtube.com/watch?v=BggrpKfqh1c" />
+        <SectionTitle>நவராத்திரி முதல் நாள் வழிபாட்டு முறை</SectionTitle>
+        <YoutubeVideo url="https://www.youtube.com/watch?v=zPJOGq5RXDQ" />
         
-      <SectionTitle>Check out this quick introduction</SectionTitle>
-        <YoutubeVideo url="https://www.youtube.com/watch?v=BggrpKfqh1c" />
+      <SectionTitle>நவராத்திரி இரண்டாம் நாள் வழிபாட்டு முறை</SectionTitle>
+        <YoutubeVideo url="https://www.youtube.com/watch?v=oU6lypUboF0" />
      
-         <SectionTitle>Check out this quick introduction</SectionTitle>
+         <SectionTitle>நவராத்திரி மூன்றாம்  நாள் வழிபாட்டு முறை</SectionTitle>
         <YoutubeVideo url="https://www.youtube.com/watch?v=BggrpKfqh1c" />
      
         
