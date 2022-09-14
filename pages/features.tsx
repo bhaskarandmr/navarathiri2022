@@ -19,7 +19,7 @@ export default function FeaturesPage() {
         <YoutubeVideo url="https://www.youtube.com/watch?v=oU6lypUboF0" />
      
          <SectionTitle>நவராத்திரி மூன்றாம்  நாள் வழிபாட்டு முறை</SectionTitle>
-        <YoutubeVideo url="https://www.youtube.com/watch?v=BggrpKfqh1c" />
+        <YoutubeVideo url="https://www.youtube.com/watch?v=ZyVUKnHRDbo" />
      
         
       </Wrapper>
