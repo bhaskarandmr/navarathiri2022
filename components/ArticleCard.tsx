@@ -22,7 +22,7 @@ export default function ArticleCard({ title, slug, imageUrl, description }: Arti
           <Content>
             <Title>{title}</Title>
          
-                   <Description>{description}  <Button transparent><span>&rarr;</span></Button></Description>
+                   <Description>{description}</Description>
 
       
      
