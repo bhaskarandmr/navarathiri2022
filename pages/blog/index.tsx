@@ -8,7 +8,10 @@ import { getAllPosts } from 'utils/postsFetcher';
 
 export default function BlogIndexPage({ posts }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
- 
+  <Page
+      title=""
+      description=""
+    >
       <CustomAutofitGrid>
         {posts.map((singlePost, idx) => (
           <ArticleCard
