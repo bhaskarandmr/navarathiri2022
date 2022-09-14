@@ -21,7 +21,7 @@ export default function ArticleCard({ title, slug, imageUrl, description }: Arti
           <Content>
             <Title>{title}</Title>
          
-                   <Description>{description} <Image src="/logof.png" alt="me" width="175" height="69" /></Description>
+                   <Description>{description}</Description>
 
         
      
