@@ -25,7 +25,7 @@ const navItems: NavItems = [
   { title: ' செய்திகள்', href: '/blog' },
   { title: 'பூஜை ', href: '/contact' },
     { title: 'நவ துர்கைகள்', href: '/contact' },
-    { title: 'கொலு  ', href: '/features' },
+    { title: 'வீடியோ', href: '/features' },
   { title: 'பலன்கள்', href: '/sign-up', },
 ];
 
