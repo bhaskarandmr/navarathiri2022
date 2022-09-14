@@ -9,7 +9,7 @@ import { getAllPosts } from 'utils/postsFetcher';
 export default function BlogIndexPage({ posts }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
   <Page
-      title=""
+      title="செய்திகள்"
       description=""
     >
       <CustomAutofitGrid>
