@@ -21,11 +21,9 @@ export default function ArticleCard({ title, slug, imageUrl, description }: Arti
           <Content>
             <Title>{title}</Title>
             <Description>{description}</Description>
-          <Container>
-        <Content>
+       
           <SectionTitle>செய்திகள்</SectionTitle>
-        </Content>
-      </Container>
+     
           </Content>
         </HoverEffectContainer>
       </ArticleCardWrapper>
