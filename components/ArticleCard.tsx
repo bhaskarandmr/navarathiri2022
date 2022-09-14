@@ -2,6 +2,7 @@ import NextImage from 'next/image';
 import NextLink from 'next/link';
 import styled from 'styled-components';
 import { media } from 'utils/media';
+import Button from 'components/Button';
 
 export interface ArticleCardProps {
   title: string;
