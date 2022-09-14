@@ -14,11 +14,7 @@ export default function FeaturesPage() {
       <Wrapper>
         <SectionTitle>Check out this quick introduction</SectionTitle>
         <YoutubeVideo url="https://www.youtube.com/watch?v=BggrpKfqh1c" />
-        <CustomAutofitGrid>
-          {FEATURES.map((singleFeature, idx) => (
-            <BasicCard key={singleFeature.title} {...singleFeature} />
-          ))}
-        </CustomAutofitGrid>
+     
       </Wrapper>
     </Page>
      
