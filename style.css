@@ -7,10 +7,7 @@ img, picture {
 .bBqkOH img, .bBqkOH picture {
   border: none !important;
 }
-.lbeYHz .next-light-theme .jvMpbf{
-  font-size: 2.5rem !important;
-line-height: 1.6 !important;
-}
+
 .dnlpoE{
   margin-top: 0rem !important;
   margin-bottom: 5rem !important;
@@ -87,7 +84,13 @@ line-height: 1.6 !important;
   margin-bottom: 1rem !important;
  
 }
-
+.kMVLIF{
+  background: rgb(219, 219, 157) none repeat scroll 0% 0% !important;
+}
+.lbeYHz .next-light-theme .jvMpbf{
+  font-size: 2.5rem !important;
+line-height: 1.6 !important;
+}
 .next-light-theme .jvMpbf{
   margin:0.5em 0
 }
