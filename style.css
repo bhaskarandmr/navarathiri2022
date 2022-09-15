@@ -4,8 +4,6 @@ body{
 img, picture {
   border: 5px solid rgb(238, 226, 177) !important;
 }
-
-
 .fwyEXF {
   display: flex !important;
   padding-top: 5rem v;
@@ -14,7 +12,6 @@ img, picture {
   max-width: 100% !important;
   color: #fff !important;
 }
-
 .bBqkOH img, .bBqkOH picture {
   border: none !important;
 }
