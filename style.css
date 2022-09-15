@@ -84,10 +84,12 @@ img, picture {
   line-height: 1.6 !important;
   margin-bottom:1em !important;
 }
-.next-light-theme .cQBRZy, .next-light-theme .hspTTT, .next-light-theme .kuHjMB, .next-light-theme .jvMpbf, .next-light-theme .jvMpbf {
+.next-light-theme .hspTTT, .next-light-theme .kuHjMB, .next-light-theme .jvMpbf, .next-light-theme .jvMpbf {
   color: #dd3333;
 }
-
+.next-light-theme .cQBRZy{
+  color: #fff;
+}
 
 .next-light-theme .hQvODp, .next-light-theme .coAmRA, .next-light-theme .jmpCRK {
   line-height: 1.8 !important;
