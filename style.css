@@ -4,6 +4,10 @@ body{
 img, picture {
   border: 5px solid rgb(238, 226, 177) !important;
 }
+.bpKblh img, .bpKblh picture {
+  border:none !important;
+}
+
 
 .fwyEXF {
   display: flex !important;
